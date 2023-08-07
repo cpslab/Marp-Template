@@ -26,7 +26,7 @@ header::before {
   left: 970px;
   width: 300px;
   height: 150px;
-  background-image: url('https://github.com/gomadoufu/mySlides-Marp-md/blob/image/CPS-Lab/CPSLab.png?raw=true');
+  background-image: url('https://raw.githubusercontent.com/cpslab/Marp-Template/main/image/CPSLab.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
